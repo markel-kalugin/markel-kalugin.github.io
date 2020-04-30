@@ -1,0 +1,3 @@
+Sitemap: http://markel-kalugin-profile.s3-website-eu-west-1.amazonaws.com/sitemap.xml
+User-agent: *
+Disallow:
