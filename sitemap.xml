@@ -6,72 +6,437 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>https://markel-kalugin.github.io/</loc>
-    <lastmod>2020-04-24T18:21:33+00:00</lastmod>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
     <priority>1.00</priority>
   </url>
   <url>
-    <loc>https://markel-kalugin.github.io/general/about/</loc>
-    <lastmod>2020-04-24T18:21:31+00:00</lastmod>
+    <loc>https://markel-kalugin.github.io/general/home</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://markel-kalugin.github.io/general/experience/</loc>
-    <lastmod>2020-04-24T18:21:32+00:00</lastmod>
+    <loc>https://markel-kalugin.github.io/general/about</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://markel-kalugin.github.io/general/skills/</loc>
-    <lastmod>2020-04-24T18:21:33+00:00</lastmod>
+    <loc>https://markel-kalugin.github.io/general/experience</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://markel-kalugin.github.io/general/contacts/</loc>
-    <lastmod>2020-04-24T18:21:33+00:00</lastmod>
+    <loc>https://markel-kalugin.github.io/general/skills</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://markel-kalugin.github.io/general/</loc>
-    <lastmod>2020-04-24T18:21:33+00:00</lastmod>
+    <loc>https://markel-kalugin.github.io/general/contacts</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/experience/first-project</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
     <priority>0.64</priority>
   </url>
   <url>
-    <loc>https://markel-kalugin.github.io/general/experience/first-project/</loc>
-    <lastmod>2020-05-03T01:27:14+00:00</lastmod>
+    <loc>https://markel-kalugin.github.io/general/experience/second-project</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
     <priority>0.64</priority>
   </url>
   <url>
-    <loc>https://markel-kalugin.github.io/general/experience/second-project/</loc>
-    <lastmod>2020-05-03T01:27:14+00:00</lastmod>
+    <loc>https://markel-kalugin.github.io/general/experience/third-project</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
     <priority>0.64</priority>
   </url>
   <url>
-    <loc>https://markel-kalugin.github.io/general/experience/third-project/</loc>
-    <lastmod>2020-05-03T01:27:14+00:00</lastmod>
+    <loc>https://markel-kalugin.github.io/general/experience/fourth-project</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
     <priority>0.64</priority>
   </url>
   <url>
-    <loc>https://markel-kalugin.github.io/general/experience/fourth-project/</loc>
-    <lastmod>2020-05-03T01:27:14+00:00</lastmod>
+    <loc>https://markel-kalugin.github.io/general/experience/fifth-project</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
     <priority>0.64</priority>
   </url>
   <url>
-    <loc>https://markel-kalugin.github.io/general/experience/fifth-project/</loc>
-    <lastmod>2020-05-03T01:27:14+00:00</lastmod>
+    <loc>https://markel-kalugin.github.io/general/experience/sixth-project</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
     <priority>0.64</priority>
   </url>
   <url>
-    <loc>https://markel-kalugin.github.io/general/experience/sixth-project/</loc>
-    <lastmod>2020-05-03T01:27:14+00:00</lastmod>
+    <loc>https://markel-kalugin.github.io/general/experience/seventh-project</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
     <priority>0.64</priority>
   </url>
   <url>
-    <loc>https://markel-kalugin.github.io/general/experience/seventh-project/</loc>
-    <lastmod>2020-05-03T01:27:14+00:00</lastmod>
+    <loc>https://markel-kalugin.github.io/general/experience/eighth-project</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
     <priority>0.64</priority>
   </url>
   <url>
-    <loc>https://markel-kalugin.github.io/general/experience/eighth-project/</loc>
-    <lastmod>2020-05-03T01:27:14+00:00</lastmod>
+    <loc>https://markel-kalugin.github.io/general/skills/python</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/javascript</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/pyramid</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/zope</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/suds</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/qemu-img</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/pycli</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/angularjs</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/flask</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/pyvmomi</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/docker</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/kubernetes</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/sheepdog</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/go</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/r</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/tornado</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/django</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/pyjwt</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/sqlalchemy</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/elasticsearch-dls</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/numpy</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/tree</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/rjson</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/getopt</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/optparse</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/nginx</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/postgresql</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/elasticsearch</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/gitlab</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/jenkins</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/ansible</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/packer</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/typescript</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/angular</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/cherrypy</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/extjs</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/oracle-rdbms</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/swarm</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/traccar</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/osm</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/osrm</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/gitlab-pipelines</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/aiohttp</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/asyncio</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/bitbucket</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/bitbucket-pipelines</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/aws-ec2</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/nats</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/redis</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/serverless</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/github</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/aws-lambda</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/aws-sqs</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/aws-ses</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/r</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/c</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/java</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/ruby</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/drf</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/alembic</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/boto3</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/aws-rds</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/apache-http-server</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/pl-pgsql</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/pl-python</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/bash</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/vagrant</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/requests</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/virtual-environment</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/centos</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/ubuntu</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/debian</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/macosx</loc>
+    <lastmod>2020-05-14T22:51:54+00:00</lastmod>
     <priority>0.64</priority>
   </url>
 </urlset>
