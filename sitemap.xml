@@ -70,6 +70,11 @@
     <priority>0.64</priority>
   </url>
   <url>
+    <loc>https://markel-kalugin.github.io/general/experience/ninth-project/</loc>
+    <lastmod>2020-11-29T17:31:47+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
     <loc>https://markel-kalugin.github.io/general/skills/python/</loc>
     <lastmod>2020-05-14T22:51:54+00:00</lastmod>
     <priority>0.64</priority>
@@ -432,6 +437,16 @@
   <url>
     <loc>https://markel-kalugin.github.io/general/skills/macosx/</loc>
     <lastmod>2020-05-14T22:51:54+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/mongodb/</loc>
+    <lastmod>2020-11-29T17:31:47+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://markel-kalugin.github.io/general/skills/mysql/</loc>
+    <lastmod>2020-11-29T17:31:47+00:00</lastmod>
     <priority>0.64</priority>
   </url>
 </urlset>
